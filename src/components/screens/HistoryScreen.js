@@ -40,7 +40,7 @@ export default HistoryScreen;
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#CCC9DC'
+        backgroundColor: '#E9ECEF'
     },
     row: {
         flexDirection: 'row',

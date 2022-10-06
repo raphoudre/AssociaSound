@@ -26,7 +26,7 @@ export default HomeScreen;
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#CCC9DC'
+        backgroundColor: '#E9ECEF'
     },
     headerStyle: {
         flexDirection: 'column',
